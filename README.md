@@ -1,1 +1,1 @@
-# AngryGoatNFT.sol
+# AngryGoatNFT
